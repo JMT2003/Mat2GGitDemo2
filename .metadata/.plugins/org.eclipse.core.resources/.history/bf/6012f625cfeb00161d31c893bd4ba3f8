@@ -1,0 +1,13 @@
+
+import java.util.Scanner;
+
+public class Input {
+	public static void main(String[] arguments){
+	
+	Scanner sc = new Scanner(System.in);
+	
+	System.out.print("Type Number: ");
+	
+
+}
+}
